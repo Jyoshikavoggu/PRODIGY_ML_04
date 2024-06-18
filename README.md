@@ -46,3 +46,11 @@ WORKFLOW SUMMARY
 CONCLUSION
 
 The developed hand gesture recognition model serves as a foundation for intuitive human-computer interaction and gesture-based control systems. The use of deep learning, specifically CNNs, allows the model to learn intricate patterns in hand gestures, providing a robust and accurate solution for real-world applications.
+
+ACKNOLEDGEMENT
+
+The project is for educational purposes and was created as part of @Prodigy_Infotech Internship
+
+Feel free to explore, modify, or expand upon this project!
+
+If you have any queries, suggestions, or feedback, please feel free to email me at Jyoshikavoggu@gmail.com
